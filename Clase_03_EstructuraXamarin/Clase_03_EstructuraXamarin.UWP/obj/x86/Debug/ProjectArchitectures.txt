@@ -1,0 +1,1 @@
+D:\DevMovilII\Clase_03_EstructuraXamarin\Clase_03_EstructuraXamarin\Clase_03_EstructuraXamarin.UWP\Clase_03_EstructuraXamarin.UWP.csproj;x86

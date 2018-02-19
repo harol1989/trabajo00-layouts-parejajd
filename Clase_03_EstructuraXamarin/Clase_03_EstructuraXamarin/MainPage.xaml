@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Clase_03_EstructuraXamarin.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Clase_03_EstructuraXamarin">
+
+    <StackLayout Orientation="Horizontal">
+        <Label
+            HorizontalOptions="Center"
+            Text="Label 1"
+            VerticalOptions="Start" />
+        <Label
+            HorizontalOptions="Center"
+            Text="Label 2"
+            VerticalOptions="Start" />
+        <Label
+            HorizontalOptions="Center"
+            Text="Label 3"
+            VerticalOptions="Start" />
+    </StackLayout>
+
+</ContentPage>
